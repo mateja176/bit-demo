@@ -24,5 +24,23 @@
         "origin": "AUTHORED",
         "exported": true
     },
+    "world": {
+        "files": [
+            {
+                "relativePath": "src/components/World/World.tsx",
+                "test": false,
+                "name": "World.tsx"
+            },
+            {
+                "relativePath": "src/components/World/index.ts",
+                "test": false,
+                "name": "index.ts"
+            }
+        ],
+        "mainFile": "src/components/World/index.ts",
+        "trackDir": "src/components/World",
+        "origin": "AUTHORED",
+        "exported": false
+    },
     "version": "14.2.3"
 }
